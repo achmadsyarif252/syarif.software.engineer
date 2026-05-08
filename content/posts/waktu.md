@@ -14,6 +14,7 @@ Jawabanya adalah karna 1 detik di bumi dengan 1 detik di tempat mendekati kecepa
 namun saat di pesawat yg mendekati kecepatan cahaya jam foton tersebu akan bergerak zigzag tidak vertikal atas bawah, jadi dia bergerak memantul ke atas, tapi untuk memantul ke bawah lagi si cerimnya posisi udah maju "beberapa langkah" makanya lebih lama buat menyelesaikan pantulan maka dari itu dari si pengamat yg di bumi waktu di sana berjalan lebih lambat bagi yg merasakan di tempat mendekati kecepatan cahaya ya tidak terasa normal aja. jika foton butuh waktu lebih lama buat menyelesaikan satu pantulan begitupula atom atom di tubuh manusia butuh waktu lebih lama untuk berinteraksi, alhasil penuaan sel melambat detak jantung melambat dst.
 
 ![Ilustrasi Jam Foton](/images/jam_photon.png)
+*Sumber: commons.wikimedia.org*
 
 Konsep di atas masuk ke dalam teori relativitas khusus, kalau teori relativitas umum itu berkaitan dengan gravitasi
 
