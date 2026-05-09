@@ -54,6 +54,20 @@ Mereka ambil kesimpulan : uqtulu yusuf , bunuh yusuf, mereka berpikir dengan mem
 Setelah bunuh yusuf atau buang jauh2 kita bisa taubat jadi orang baik setelahnya, sekarang buat jahat dulu nanti tobat, itu bisikan standar setan
 dosa itu membuat kita ketagihan, makanya jangan mulai dari sekecil apapun
 
-Yng paling tua namanya yauza dia yg paling berakal,bijaksana berkata : jangan bunuh yusuf jangan buang juga karna memakan waktu , coba masukan ke dalam sumur agar dipungut oleh sebagian musafir (saat itu musafir sering ambil air nanti yusuf bisa dibawa harapanya gitu) , kalau kalian bunuh nanti ada penyesalan, kalau asingkan kita harus antar, kalau di sumur nanti bisa dibawa pergi musafir, keinginan kita terpenuhi
+Yng paling tua namanya yakuza dia yg paling berakal,bijaksana berkata : jangan bunuh yusuf jangan buang juga karna memakan waktu , coba masukan ke dalam sumur agar dipungut oleh sebagian musafir (saat itu musafir sering ambil air nanti yusuf bisa dibawa harapanya gitu) , kalau kalian bunuh nanti ada penyesalan, kalau asingkan kita harus antar, kalau di sumur nanti bisa dibawa pergi musafir, keinginan kita terpenuhi
 
 pelajaran yg bisa diambil : dari hal hal buruk pilih yang paling ringan keburukanya (ini case kalau tidak ada pilihan lain) 
+
+nanti mereka di akhir cerita bertaubat ke Allah, terutama si yakuza ini 
+
+setelah melakukan makar mereka berepakat, namun kebingungan melakukan caranya karna yusuf selalu bersama ayahnya (yg mana ini membuat mereka iri juga) 
+
+Wahai ayah kami kenapa engkau tidak mempercayai kami terhadap yusuf, kenapa yusuf tidak bermain kami dsb, padahal sesungguhnya kami semua menginginkan kebaikan , biarkanlah dia pergi berasma kami besok agar dia bersenang senang dan kami pasti menjaganya, yaqub menjawab :
+
+kepergian kalian itu membuatku sedih dan aku khawatir dia dimakan serigala , yaqub takut yusuf dimakan serigala dan saudara saudaranya lengah dari yusuf 
+
+mereka berkata : gimana dia dimakan serigala padahal kami golongan yg kuat
+
+ketika mereka dapat izin, mereka sepakat memasukan yusuf ke sumur dimana musafir lewat, kemudian mereka memasukan yusuf dan pulang, senaja pula di waktu isya (petang hari) sambil nangis 
+
+Mereka lupa mencabik cabik baju yusuf hanya mengoleskan darah ke baju yusuf yg mana baju yusuf juga masih utuh, mereka datang membawa gamis yusuf yg berlumur darah palsu 
