@@ -71,3 +71,39 @@ mereka berkata : gimana dia dimakan serigala padahal kami golongan yg kuat
 ketika mereka dapat izin, mereka sepakat memasukan yusuf ke sumur dimana musafir lewat, kemudian mereka memasukan yusuf dan pulang, senaja pula di waktu isya (petang hari) sambil nangis 
 
 Mereka lupa mencabik cabik baju yusuf hanya mengoleskan darah ke baju yusuf yg mana baju yusuf juga masih utuh, mereka datang membawa gamis yusuf yg berlumur darah palsu 
+
+tidak lama kemudian datanglah sekelompok musafir , mereka suruh pengambil air, tiba tiba timba terasa berat, saat dikeluarkan pengambil air bilang oh senangnya ada anak muda , kaget ada anak muda yang sangat tampan , pengambil air itu lapor ke temanya, dan ingin menyembunyikan yusuf sebagai barang daganganya. 
+
+Mereka lalu menjual ysuf dengan harga rendah, Allah buat mereka tidak tertarik dengan yusuf
+
+pedangang lapor ke menteri bahwa budah ini tidak pantas dijadikan budak .
+di mesir yusuf diperebutkan
+
+Si menteri yang membeli yusuf mengatakan muliakan yusuf
+
+Yusuf diajak berzina oleh istri majikanya (al Aziz, namanya zulaikha)
+
+Perempuan yg ysufu tinggal di rumahnya menggoda yusuf , ruangan nya punya 7 pintu, semuanya dikunci dan kuncinya dicabut agar yusuf tidak bisa kabur 
+
+"Aku sudah mempersipkannya untukmu,  ke sini buat apa yang engkau mau tidak ada suamiku" dia bilang dalam keadaan nude menurut sebagian ahli tafsir
+
+Yusuf langusng menolak dan berkata, Aku berlindung kepada Allah S.W.T . Zulaikha ini bukan perempuan yang menyembah Allah  berbuat syirik 
+
+Zulaikha malu kepada patung yg ada di sana ddengn menutup kain , yusuf bilang harusnya engkau lebih takut dan malu kepada Allah
+
+Sesungguhnya tuanku telah memperlakukanku dengan baik 
+
+mukhlas = orang yang diberi petunjuk
+mukhlis = orang yang ikhlas 
+
+datang jibril mendatangi yusuf, "jangan kamu tergoda yusuf" , yusuf juga menengar suara agar jangan terjerumus, yusuf juga melihat ayahnya , yaqub.
+
+Waktu zulaikha menutup patungnya dan mengatakan malu karna ini tuhanku yusuf berkata "sesungguhnya tuhanku melihatku" 
+
+Tinggal ada satu pintu yang belum engkau tutup yaitu pintunya Allah Swt
+
+yusuf lalu melarikan diri sampai akhirnya tiba di pintu utama yang biasa suaminya zulaikha buka ternyata pas tiba tiba di depan pintu suaminya itu buka pintu juga, dalam kondisi yg seperti sebelumnya zulaikha menarik gamis yusuf dan koyak lalu suaminya melihatnya 
+
+zulaikha mengatur strategi agar tidak dihukum suaminya langsung bilang apa hukumanya kalau ada pria yang menggoda istrinya , yusuf membela diri "dialah yg telah menawarkan dirinya padaku , dia merayu diriku dan menggodaku seorang saksi yg bijak memberikan kesaksian jika baju yusuf yang koyak dari depan maka perempuang yg benar dan yusuf yg dusta, jika gamis yusuf koyak dari belakang maka perempuan yg dusta dan yusuf yg benar"
+
+Suami zulaika bilang sungguh tipu dayamu luar biasa, wahai yusuf lupakan ini jangan ceritakan pada orang orang, dan wahai istriku mohon ampunlah kepada tuhan karna engkau termasuk orang yang salah, sungguh zulaikha ini bukan laki laki yang punya rasa cemburu
