@@ -1,0 +1,12 @@
+.streak {
+  display: inline-block;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 8px;
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+}
