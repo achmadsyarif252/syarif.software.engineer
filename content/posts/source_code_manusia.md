@@ -5,7 +5,7 @@ title = 'Source Code Manusia'
 tags = ["Sains","Biologi"]
 +++
 
-Deoxyribucleic Acid cukup sulit menulis dan mengejanya , alias DNA.
+Deoxyribonucleic Acid cukup sulit menulis dan mengejanya , alias DNA.
 
 Tubuh manusia itu terdiri dari miliaran sel, di dalam sel itu ada inti sel atau yang dinakamakan dengan nukleus , nah di dalam nukleus ini ada yang namanya DNA, dna ini bentuknya mirip seperti double helix , ada anak tangga yang berisi catatan atau intruksi kode untuk tubuh manusia, intruksinya hanya pakai huruf namanya basa nitrogen , ATCG , kumpulan dari dna itu namanya kromosom
 
