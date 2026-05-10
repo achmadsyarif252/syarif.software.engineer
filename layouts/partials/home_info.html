@@ -1,9 +1,15 @@
-<div class='home-info'>
-  <div class='home-info-title'>
-    <h1>{{ .Site.Params.homeInfoParams.Title }}</h1>
-  </div>
-  <p>{{ .Site.Params.homeInfoParams.Content }}</p>
-  <div class='streak-badge'>
-    🔥 {{ .Site.Params.streak }} hari streak
-  </div>
-</div>
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <section class="entry-content">
+        <p>{{ .Content | markdownify | safeHTML }}</p>
+        {{- with site.Params.streak }}
+        <div class="streak-badge">
+            🔥 {{ . }} hari streak
+        </div>
+        {{- end }}
+    </section>
+</article>
+{{- end }}
