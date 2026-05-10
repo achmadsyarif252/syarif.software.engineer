@@ -1,10 +1,6 @@
 <style>
-.home-info {
-  position: relative;
-}
 .streak-badge {
   position: absolute;
-  top: 6.3rem;
   right: 0;
   font-size: 2rem;
   font-weight: bold;
@@ -24,10 +20,12 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const homeInfo = document.querySelector('.home-info');
-  if (homeInfo) {
+  const title = document.querySelector('.home-info h1');
+  if (homeInfo && title) {
     const badge = document.createElement('div');
     badge.className = 'streak-badge';
     badge.innerHTML = '<span class="fire">🔥</span> 8';
+    badge.style.top = title.offsetTop + 'px';
     homeInfo.appendChild(badge);
   }
 });
