@@ -17,7 +17,7 @@ Deep sleep : fase tidur paling dalam dengan gelombang otak paling lambat (gelomb
 REM : tahap di mana otak sangat aktif, mata bergerak cepat ke sesgala arah, mimpi terjadi berfungsi memproses emosi,menyimpan memori jangka panjang, dan meningkatkan pembelajaran 
 
 
-*Gelombang delta itu .. bersambung
+*Gelombang delta itu aktivitas listrik yang terjadi di otak dengan frekuensi 0.5 - 4hz di sini otak istirahat dari kesadaran penuh dia fokus ke hal hal terkait regenerasi sel dan pemulihan fisik
 
 Aktifitas yang kita lakukan saat bangung itu menumpuk adenosin yang mana ini bagus untuk memaksa tubuh untuk tidur dini ke fase yang lebih dalam, bisa dibilang semakin "capek" yg terkontrol justru bagus untuk pemulihan tubuh.
 
