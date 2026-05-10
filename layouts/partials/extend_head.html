@@ -1,0 +1,26 @@
+<style>
+.streak-badge {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 4px;
+}
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.15); }
+}
+.streak-badge span {
+  display: inline-block;
+  animation: pulse 1.5s infinite;
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const desc = document.querySelector('.home-info p');
+  if (desc) {
+    const badge = document.createElement('div');
+    badge.className = 'streak-badge';
+    badge.innerHTML = '<span>🔥</span> 1 hari streak';
+    desc.insertAdjacentElement('afterend', badge);
+  }
+});
+</script>
