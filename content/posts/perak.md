@@ -1,6 +1,6 @@
 +++
 date = '2026-05-12T20:57:01+07:00'
-draft = true
+draft = false
 title = 'Obsesi China Terhadap Perak'
 tags = ["Ekonomi","Pengetahuan"]
 +++
