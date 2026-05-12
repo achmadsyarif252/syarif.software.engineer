@@ -17,3 +17,5 @@ Organ pencernaan itu dimulai dari mulut, enamel gigi merupakan anggota tubuh yan
 - Keselek itu terjadi karna si pintu otomatis esofagus bingung antara buka atau tutup karna saat bicara itu harus kebuka karna pita suara hrus kebuka jg, pas makan sambil ngomong dia bingung jadi makanan itu masuknya ke paru paru jadi batuk
 - lambung itu jalinan otot yg bisa meremas makanan, ada 2 pintu , atas lower esofagi spinter memastikan makanan masuk tidak kembali ke esofagus
 - pintu lambung bawah pilorus memastikan yg ada di lambung tercicil masuk ke usus tidak sekaligus, dia keluarin 5cc/menit
+
+[Podcast Dr Gia dan Radit](https://www.youtube.com/watch?v=Lla8OAD-DEE)
