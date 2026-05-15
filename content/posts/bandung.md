@@ -1,6 +1,6 @@
 +++
 date = '2026-05-15T08:03:23+07:00'
-draft = true
+draft = false
 title = 'Asal Usul Nama Bandung'
 tags = ["Sejarah","XP"]
 +++
