@@ -1,6 +1,6 @@
 +++
 date = '2026-05-17T22:02:14+07:00'
-draft = true
+draft = false
 title = 'Ashkenazi'
 tags = ["Sejarah"]
 +++
