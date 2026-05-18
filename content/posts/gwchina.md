@@ -1,7 +1,7 @@
 +++
 date = '2026-05-18T23:06:32+07:00'
 draft = false
-title = 'Gwchina'
+title = 'The Great Wall Of China'
 tags = ["BelajarSemenit","sejarah"]
 +++
 
