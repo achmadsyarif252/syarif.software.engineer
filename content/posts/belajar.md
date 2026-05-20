@@ -9,4 +9,4 @@ Kenapa kita harus belajar ?
 
 Karena kita itu manusia, agar menjadi manusia yang seutuhnya. berbeda dengan mahluk lain yang bergerak murni dengan isting, manusia menjadi "manusia" karena kapasitas berpikir dan belajarnya.
 
-Itu juga merupakan wujud syukur kita yang telah diciptakan sebagai manusia
+Itu juga merupakan wujud syukur kita karena telah diciptakan sebagai manusia
