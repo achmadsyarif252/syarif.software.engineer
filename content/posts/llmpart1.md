@@ -49,8 +49,8 @@ Tokenizer software (teks dipotong ke token token berdasarkan aturan statistik ka
 
 Hasil potongan ["Men","dengar","kan"] nanti akan dibaca tuh di kamus token itu idnya berapa misal [1043,3253,2310]
 
-Angka id ini nanti akan dikirim ke otak llm untuk diproses,
-
-tapi sebelum id itu dikirim ke jaringan saraf tiruan angka itu akan diubah ke vektor koordinat yaitu dereten 4096 dimensi, tapi ini cukup kompleks bahkan versi simpelnya, kita bahas lagi di part 2
+[Otak LLM / Jaringan Saraf Tiruan]
+ID ini dikirim ke lapisan pertama otak LLM, lalu di sana angka tersebut
+akan diubah ke vektor koordinat yaitu dereten 4096 dimensi.Topik ini cukup kompleks bahkan versi simpelnya, kita bahas lagi di part 2
 
 Bersambung
