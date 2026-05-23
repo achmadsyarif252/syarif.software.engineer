@@ -5,7 +5,7 @@ title = 'LLM Series Part 1 : Tokenisasi'
 tags = ["Pengetahuan","Sains","Teknologi"]
 +++
 
-"komputer tidak mengetahui huruf atau kata dia hanya ngerti angka , makanya perlu diubah si teks yg ditanyakan oleh user menjadi struktur matematika
+komputer tidak mengetahui huruf atau kata dia hanya ngerti angka , makanya perlu diubah si teks yg ditanyakan oleh user menjadi struktur matematika
 
 caranya pertama adalah dengan memecah teks yg user input ke dalam token token, nama prosesnya adalah tokenisasi proses ini dilakukan oleh program Tokenizer, nah tiap kata nanti dipecah, sebetulnya tidak spesifik dipecah tiap kata, bisa aja tiap suku kata misal "mendengarkan" bisa dipecah menjadi "Men","Dengar","Kan"
 
