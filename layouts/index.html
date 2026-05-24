@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="home-info">
+  <h1>{{ .Site.Params.homeInfoParams.Title }}</h1>
+  <p>{{ .Site.Params.homeInfoParams.Content }}</p>
+  <div class="streak">
+    🔥 {{ .Site.Params.streak }} hari streak
+  </div>
+</div>
+
+{{ range .Paginator.Pages }}
+<article>
+  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  <p>{{ .Summary }}</p>
+  <time>{{ .Date.Format "January 2, 2006" }}</time>
+</article>
+{{ end }}
+{{ end }}
