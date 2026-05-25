@@ -18,7 +18,7 @@ nah parameter ini adalah miliaran angka pengali yang sdah paten (dikunci) yg dip
 2. struktur berlapis (deep layers) vektor koordinat tadi tidak hanya dikalikan sekali namun ada puluhan hingga ratusan layers jaringan siber yang ditumpuk secara vertikal , pada saat koordinat kata melewati lapisan2 tsbt , terjadi pembagian tugas di sana :
 - lapisan bawah (early layers) berfokus pada struktur fisik teks (tata bahasa) : pada tahap ini parameter bekerja untuk mengenali subjek, objek dan hubungan antarkata. misal mengunci bahwa angka 3 itu berpasangan dengan kata butir telur apabila pertanyaan user : apakah protein hari ini saya cukup? saya konsumsi 3 telur hari ini .
 
-- lapisan tengan : middle layers di sini dia memahami konteks abstrak (semantik). parameter pada lapisan ini akan menarik koordinat kata telur dan protein ke zona baru bernama zona informasi gizi / nutrisi, karna ai tahu kedua kata ini punya hubngan erat di dunia nyata (dengan melihat kedekatan angka vektor embedding di matriks tabelnya yang sangat besar)
+- lapisan tengan : middle layers di sini dia memahami konteks abstrak (semantik). parameter pada lapisan ini akan menarik koordinat kata telur dan protein ke zona baru bernama zona informasi gizi / nutrisi, karna AI tahu kedua kata ini punya hubungan erat di dunia nyata (setelah koordinatnya dikalikan oleh parameter di lapisan ini)
 
 - lapisan atas (deep layers) : merumuskan konsep jawaban . koordinat dari seluruh kalimat yg ditanyakan user diperas jadi satu titik koordinat final yang mengandung kesimpulan conoth kasus pertanyaan tadi : "user butuh konfirmasi kecukupan gizi dari makanan yang disebut".
 
