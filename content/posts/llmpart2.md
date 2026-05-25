@@ -1,5 +1,5 @@
 +++
-date = '2026-05-23T22:34:58+07:00'
+date = '2026-05-25T22:34:58+07:00'
 draft = false
 title = 'LLM Series Part 2 : Parameter & Jaringan Saraf Tiruan'
 tags = ["Pengetahuan","Sains","Teknologi","LLM"]
@@ -39,4 +39,5 @@ karena token "ĠTiga" mendapatkan persentase tertinggi , sistem akan memilih kat
 
 nanti kata tiga akan di evaluasi lagi ditambah dengan konteks pertanyaan pengguna, akan terus iterasi sampai ada tanda berakhir (ini perlu dibahas nanti kenapa kapa saatnya kenapa ai tahu kapan harus stop)
 
+*Ġ ini token spasi yg dipahami oleh llm*
 
