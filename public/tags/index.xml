@@ -2,24 +2,199 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Today I Learned</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://til-syarif-25.pages.dev/tags/</link>
     <description>Recent content in Tags on Today I Learned</description>
     <generator>Hugo</generator>
     <language>id</language>
-    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 May 2026 23:14:12 +0700</lastBuildDate>
+    <atom:link href="https://til-syarif-25.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>History</title>
-      <link>http://localhost:1313/tags/history/</link>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/history/</guid>
+      <title>Sains</title>
+      <link>https://til-syarif-25.pages.dev/tags/sains/</link>
+      <pubDate>Wed, 27 May 2026 23:14:12 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/sains/</guid>
       <description></description>
     </item>
     <item>
-      <title>Islamic</title>
-      <link>http://localhost:1313/tags/islamic/</link>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/islamic/</guid>
+      <title>Pengetahuan</title>
+      <link>https://til-syarif-25.pages.dev/tags/pengetahuan/</link>
+      <pubDate>Tue, 26 May 2026 22:51:00 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/pengetahuan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://til-syarif-25.pages.dev/tags/llm/</link>
+      <pubDate>Mon, 25 May 2026 22:34:58 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teknologi</title>
+      <link>https://til-syarif-25.pages.dev/tags/teknologi/</link>
+      <pubDate>Mon, 25 May 2026 22:34:58 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/teknologi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sejara</title>
+      <link>https://til-syarif-25.pages.dev/tags/sejara/</link>
+      <pubDate>Sun, 24 May 2026 23:43:11 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/sejara/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random</title>
+      <link>https://til-syarif-25.pages.dev/tags/random/</link>
+      <pubDate>Sat, 23 May 2026 23:36:04 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/random/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>https://til-syarif-25.pages.dev/tags/ai/</link>
+      <pubDate>Thu, 21 May 2026 22:17:06 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://til-syarif-25.pages.dev/tags/tech/</link>
+      <pubDate>Thu, 21 May 2026 22:17:06 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fisika</title>
+      <link>https://til-syarif-25.pages.dev/tags/fisika/</link>
+      <pubDate>Wed, 20 May 2026 21:54:31 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/fisika/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Why</title>
+      <link>https://til-syarif-25.pages.dev/tags/why/</link>
+      <pubDate>Wed, 20 May 2026 21:34:14 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/why/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sosial</title>
+      <link>https://til-syarif-25.pages.dev/tags/sosial/</link>
+      <pubDate>Tue, 19 May 2026 22:54:20 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/sosial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Youtube</title>
+      <link>https://til-syarif-25.pages.dev/tags/youtube/</link>
+      <pubDate>Tue, 19 May 2026 22:54:20 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/youtube/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BelajarSemenit</title>
+      <link>https://til-syarif-25.pages.dev/tags/belajarsemenit/</link>
+      <pubDate>Mon, 18 May 2026 23:06:32 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/belajarsemenit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sejarah</title>
+      <link>https://til-syarif-25.pages.dev/tags/sejarah/</link>
+      <pubDate>Mon, 18 May 2026 23:06:32 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/sejarah/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>XP</title>
+      <link>https://til-syarif-25.pages.dev/tags/xp/</link>
+      <pubDate>Fri, 15 May 2026 08:03:23 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/xp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ekonomi</title>
+      <link>https://til-syarif-25.pages.dev/tags/ekonomi/</link>
+      <pubDate>Tue, 12 May 2026 20:57:01 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/ekonomi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kesehatan</title>
+      <link>https://til-syarif-25.pages.dev/tags/kesehatan/</link>
+      <pubDate>Mon, 11 May 2026 21:50:46 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/kesehatan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biologi</title>
+      <link>https://til-syarif-25.pages.dev/tags/biologi/</link>
+      <pubDate>Sun, 10 May 2026 13:57:02 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/biologi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agama</title>
+      <link>https://til-syarif-25.pages.dev/tags/agama/</link>
+      <pubDate>Sat, 09 May 2026 13:07:04 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/agama/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kenabian</title>
+      <link>https://til-syarif-25.pages.dev/tags/kenabian/</link>
+      <pubDate>Sat, 09 May 2026 13:07:04 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/kenabian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matematika</title>
+      <link>https://til-syarif-25.pages.dev/tags/matematika/</link>
+      <pubDate>Mon, 04 May 2026 22:32:33 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/matematika/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Number</title>
+      <link>https://til-syarif-25.pages.dev/tags/number/</link>
+      <pubDate>Mon, 04 May 2026 22:32:33 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/number/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>https://til-syarif-25.pages.dev/tags/history/</link>
+      <pubDate>Sat, 25 Apr 2026 21:39:34 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biografi</title>
+      <link>https://til-syarif-25.pages.dev/tags/biografi/</link>
+      <pubDate>Fri, 24 Apr 2026 10:34:25 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/biografi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Islam</title>
+      <link>https://til-syarif-25.pages.dev/tags/islam/</link>
+      <pubDate>Fri, 24 Apr 2026 10:34:25 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/islam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>https://til-syarif-25.pages.dev/tags/math/</link>
+      <pubDate>Thu, 23 Apr 2026 19:40:45 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engineering</title>
+      <link>https://til-syarif-25.pages.dev/tags/engineering/</link>
+      <pubDate>Mon, 20 Apr 2026 22:17:34 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/tags/engineering/</guid>
       <description></description>
     </item>
   </channel>

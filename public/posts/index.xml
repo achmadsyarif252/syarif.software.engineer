@@ -2,18 +2,419 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Today I Learned</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://til-syarif-25.pages.dev/posts/</link>
     <description>Recent content in Posts on Today I Learned</description>
     <generator>Hugo</generator>
     <language>id</language>
-    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 May 2026 23:14:12 +0700</lastBuildDate>
+    <atom:link href="https://til-syarif-25.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doppler Effect</title>
+      <link>https://til-syarif-25.pages.dev/posts/doppler/</link>
+      <pubDate>Wed, 27 May 2026 23:14:12 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/doppler/</guid>
+      <description>&lt;p&gt;Doppler Effect adalah fenomena perubahan frekuensi atau panjang gelombang dari suatu sumber gelombang yang diterima oleh pengamat akibat adanya pergerakan relatif antara sumber gelombang dan pengamat tersebut, simpelnya efek dopler itu perubaha tinggi rendahnya suara yang kita dengan karna sumber suara tersebut bergerak&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Ilustrasi Doppler Effect&#34; loading=&#34;lazy&#34; src=&#34;https://til-syarif-25.pages.dev/images/doppler.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Diusulkan oleh fisikawan austrai bernama christian doppler&lt;/p&gt;
+&lt;p&gt;Cara kerja :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;saat mendekat gelombang akan terkommpresi atau menjadi lebh rapat , frekuensi gelombang jadi lebih tinggi&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Otak Manusia Spesial, Why?</title>
+      <link>https://til-syarif-25.pages.dev/posts/otak/</link>
+      <pubDate>Tue, 26 May 2026 22:51:00 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/otak/</guid>
+      <description>&lt;p&gt;Apa yang bikin otak manusia itu spesial sampai bisa bikin peradaban seperti sekarang ? apakah dari ukuran ? kalau dari ukuran maka gajah dan paus mungkin harusnya udah bisa nerbangin roket ke luar angkasa..&lt;/p&gt;
+&lt;p&gt;Tapi persentase berat otak di manusia dengan di gajah dan paus tadi tidak sebanding, otak manusia memiliki berat 2% dari total ukuran tubuh manusia kalau gajah dan pauns hanya 0.18 dan 0.02 persen dari ukuran badan mereka ? lalu apakah mahluk hidup yang memiliki rasio otak lebih besar dari manusia bisa lebih pintar ? ternyata tidak juga&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LLM Series Part 2 : Parameter &amp; Jaringan Saraf Tiruan</title>
+      <link>https://til-syarif-25.pages.dev/posts/llmpart2/</link>
+      <pubDate>Mon, 25 May 2026 22:34:58 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/llmpart2/</guid>
+      <description>&lt;p&gt;Di part 1 sudah dibahas gimana kata yang kita masukan sebagai prompt ditokenisasi sampai akhirnya tiap token tersebut memndapatkan id yang kemudian ditukar ke vektor embedding berupa deretan 4096 koordinat&lt;/p&gt;
+&lt;p&gt;lalu setelah jadi vektor embeding gimana proses selanjutnya yang terjadi di dalamnya ?, ada 2 komponen penting yang bekerja di sini yaitu jaringan saraf (deep layers) dan parameter (weight &amp;amp; biases)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;parameter ibarat papan dj raksasa yang punya miliaran tombol untuk atur volume suaranya , biasanya saat llm rilis ke publik mereka akan flexing berapa billion parameter yang digunakan, apa parameter itu ? dalam matematika, parameter di dalam Neural Network terdiri dari 2 hal :&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;weights (bobot) adalah angka pengali untuk menentukan seberapa penting suatu informasi&lt;/li&gt;
+&lt;li&gt;biases (bias) adalah angka konstan penambah untuk menyetel sensitivitas tebakan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;nah parameter ini adalah miliaran angka pengali yang sdah paten (dikunci) yg diperoleh saat proses training model hasi dari membaca internet (yang menebak kata selanutnya itu), saat user bertanya koordinat yg tadi sudah didapat dari tokenisasi id akan disaring dan dikalikan dengan miliaran tombol ini&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Urdu Language</title>
+      <link>https://til-syarif-25.pages.dev/posts/urdu/</link>
+      <pubDate>Sun, 24 May 2026 23:43:11 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/urdu/</guid>
+      <description>&lt;p&gt;Kenapa kosakata bahasa india banyak mirip dengan arab (dan indonesia) misalnya&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mubarak : Selamat&lt;/li&gt;
+&lt;li&gt;Duniya : Dunia&lt;/li&gt;
+&lt;li&gt;Insaan : Manusia&lt;/li&gt;
+&lt;li&gt;Jannati : Sesuatu bersifat surgawi&lt;/li&gt;
+&lt;li&gt;Mohabbat : dari kata muhabbah = cinta/kasih sayang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Kenapa bisa banyak kata serapan ? prosesnya terjadi sekitar 1000 tahun lamanya, terbagi kedalam 3 babak&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;jalur perdagangan laut (abad ke-7) pedagang arab sudah mendarat di pesisir barat india(wilayah karela dan gujarat) hubungan dagang ini membuat istilah istilah dlm arab diserap oleh penduduk lokal&lt;/li&gt;
+&lt;li&gt;penaklukan dan kesultanan delhi (abad ke 12 -16) : Dinasti dinasti muslim dari asia tengan menaklukkan india utara dan mendirikan kesultanan delhi, mereka menggunakan bahsa persia sebagai bahasa resmi (bahasa persia sdh terpengaruh oleh bahasa arab)&lt;/li&gt;
+&lt;li&gt;kekaisaran mughal : prajurut,pedagang, dan rakyat berbicara dalam dialek lokal berkumpul bersama para penguasa yg berbahasa persia-arab, dari perkumpulan itu lahir bahasa baru yaitu urdu (artinya Kamp Militer dalam bahasa turki) -&amp;gt; pakai tata bahasa india tapi mayoritas kosakata dari bahasa arab dan persia&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Pasca kemerdekaan india dan pakistan th 1947 pemerintah india mencoba menghilangkan bahasa bahasa serapan tersebut dan membuat kosakata pengganti yang berakar dari bahasa sansekerta asli, di level pemerintahan dan sejajarnya itu diterapkah namun masyarakat sampai sekarang masih tetap memakai kata kata tersebut adlam percakapan sehari hari.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fakta Random</title>
+      <link>https://til-syarif-25.pages.dev/posts/randomfact/</link>
+      <pubDate>Sat, 23 May 2026 23:36:04 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/randomfact/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Pisang itu termasuk jenis beri&lt;/li&gt;
+&lt;li&gt;fokus mata kalau diibaratkan kamera digital dia bakal memiliki resolusi 576 megapixel&lt;/li&gt;
+&lt;li&gt;menara eifel bisa bertambah tinggi saat musim panas karna pemuaian besinya bisa nambah 15 cm&lt;/li&gt;
+&lt;li&gt;Tulang manusia bisa lebih kuat daripada beton , batang tulang yang berukuran sama dengan beton bisa menahan beban 4x lebih besar keetimbang beton&lt;/li&gt;
+&lt;li&gt;tumbuhan adalah elemen terlangka di alam semesta, berlian bisa ditemuukan banyak di planet selain bumi contohnya di planet neptunus&lt;/li&gt;
+&lt;li&gt;Iklan iPhone selalu menunjukkan jam 09:41: momen persis saat Steve Jobs pertama kali memperkenalkan iPhone ke dunia pada tahun 2007.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>LLM Series Part 1 : Tokenisasi</title>
+      <link>https://til-syarif-25.pages.dev/posts/llmpart1/</link>
+      <pubDate>Fri, 22 May 2026 22:58:07 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/llmpart1/</guid>
+      <description>&lt;p&gt;komputer tidak mengetahui huruf atau kata dia hanya ngerti angka , makanya perlu diubah si teks yg ditanyakan oleh user menjadi struktur matematika&lt;/p&gt;
+&lt;p&gt;caranya pertama adalah dengan memecah teks yg user input ke dalam token token, nama prosesnya adalah tokenisasi proses ini dilakukan oleh program Tokenizer, nah tiap kata nanti dipecah, sebetulnya tidak spesifik dipecah tiap kata, bisa aja tiap suku kata misal &amp;ldquo;mendengarkan&amp;rdquo; bisa dipecah menjadi &amp;ldquo;Men&amp;rdquo;,&amp;ldquo;Dengar&amp;rdquo;,&amp;ldquo;Kan&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;ada beberapa pertanyaan yg perlu dipahami dulu&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Backpropagation</title>
+      <link>https://til-syarif-25.pages.dev/posts/backpropagation/</link>
+      <pubDate>Thu, 21 May 2026 22:17:06 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/backpropagation/</guid>
+      <description>&lt;p&gt;Backpropagation adalah proses komputer memberitahukan layer parameter secara mundur dari layer paling terakhir hingga sampai ke layer pertama kali saat suatu kata itu masuk , apa yang dibertahu ? yg diberi tahukan adalah informasi bahwa koordinat yg dibawa oleh setiap layer itu apakah benar atau salah atas hasil tebakan yang dilakukan layer paling atas , jadi misal ada kata &amp;ldquo;Kucing itu sedang &amp;hellip;.&amp;rdquo; nah pas training kata terbang ternyata kata terbang itu salah tidak nyambung dnegan kalimat tersebut maka dilakukan backpropagation untuk memberikan nilai faktor pengali (knop parameter) ke kata terbang itu jauh posisinya supaya di masa depan, kalau ada kata kucing layer layer tersebut tidak mengantarkan sinyal menuju koordinat terbang.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Planck Length</title>
+      <link>https://til-syarif-25.pages.dev/posts/planck/</link>
+      <pubDate>Wed, 20 May 2026 21:54:31 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/planck/</guid>
+      <description>&lt;p&gt;Seberapa kecil suatu ukuran itu bisa kita bayangkan ? manusia mungkin masih bisa melihat sehelai rambut yang lebarnya berkisar 0.1 milimeter, lalu kalau kita perkecil lagi terus menuerus sampai ke ujung yang paling kecil itu sampai mana ?&lt;/p&gt;
+&lt;p&gt;Mungkin jawaban yang biasa kita temukan adalah atom, atom adalah suatu hal yang paling kecil yang membentuk kita dan semua yang ada di alam semsta, tapi faktanya ada &amp;ldquo;ukuran&amp;rdquo; yang lebih kecil lagi, ibarat atom itu di zoom kan nati ada proton neutron elektron, quark lalu terus menerus sekecil kecilnya sampailah nanti kita ke ukuran terkecil yang diizinkan oleh hukum fisika, nanmanya adalah Planck Length.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Belajar</title>
+      <link>https://til-syarif-25.pages.dev/posts/belajar/</link>
+      <pubDate>Wed, 20 May 2026 21:34:14 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/belajar/</guid>
+      <description>&lt;p&gt;Kenapa kita harus belajar ?&lt;/p&gt;
+&lt;p&gt;Karena kita itu manusia, agar menjadi manusia yang seutuhnya. berbeda dengan mahluk lain yang bergerak murni dengan isting, manusia menjadi &amp;ldquo;manusia&amp;rdquo; karena kapasitas berpikir dan belajarnya.&lt;/p&gt;
+&lt;p&gt;Itu juga merupakan wujud syukur kita karena telah diciptakan sebagai manusia&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fill In The Blank</title>
+      <link>https://til-syarif-25.pages.dev/posts/filltheblank/</link>
+      <pubDate>Tue, 19 May 2026 22:54:20 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/filltheblank/</guid>
+      <description>&lt;p&gt;Sifat alami manusia itu fill in the blank artinya manusia akan selalu mencoba mengisi kekosongan kekosongan atas pertanyaan yang tidak diketahui jawabanya, kita bisa mengisi kekosongan itu dengan 2 cara yaitu dengan melalui proses pemikiran yang logis, kritis, analitis atau dengan cara instan saja mengambil jalan pintas kesimpulan karna kemalasan atau ketidakmauan untuk melalui proses2 di cara yang pertama.&lt;/p&gt;
+&lt;p&gt;Belakangan ini ada sosok orang ngelantur yang viral yg dikenal dengan mama ghufron pertanyaanya adalah kenapa orang absurd seperti beliau bisa memiliki penonton atau pengikut, mungkin juga sebagian orang hanya menganggap itu hanya hiburan semata alias tidak mempercayai apa yg dikatakanya sebagai suatu kebenaran atau ilmu ya anggap aja kakek kakek lagi mengeluarkan unek unek absurd aja, tapi tidak bisa dipungkiri ada juga segelintir orang yang mempercayai dia atau setidaknya memiliki keraguan dalam hatinya apakah yg disampaikan itu salah atau benar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Great Wall Of China</title>
+      <link>https://til-syarif-25.pages.dev/posts/gwchina/</link>
+      <pubDate>Mon, 18 May 2026 23:06:32 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/gwchina/</guid>
+      <description>&lt;p&gt;The Great Wall of China / Tembok besar china merupakan benteng raksasa sepanjang lebih dari 21.000 (dua puluh satu RIBU) kilometer , dibangun lebih dari 2000 tahun untuk lindungi kekaisaran dari serangan luar&lt;/p&gt;
+&lt;p&gt;Sejarah Pembangunan :
+Awal mula (abad ke 7 SM) : kerajaan2 kuno tiongkok mulai membangun tembok2 terpisah untuk lindungin wilayah dari suku nomaden utara&lt;/p&gt;
+&lt;p&gt;Penyatuan (221 SM- 206 SM) : Kaisan Qin Shi Huang mempersatukan tiongkok menghubungkan tembok tembok terpisah jadi satu pakai tanah yang dipadatkan&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ashkenazi</title>
+      <link>https://til-syarif-25.pages.dev/posts/ashkenazi/</link>
+      <pubDate>Sun, 17 May 2026 22:02:14 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/ashkenazi/</guid>
+      <description>&lt;p&gt;Siapa itu yahudi ashkenazi ?&lt;/p&gt;
+&lt;p&gt;Mereka adalah kelompok etnis yahudi yang nenek moyangnya berasal dari wilayah eropa tengah dan timur. Mereka itu kelompok yahudi terbesar di dunia modern, yang menyumbang separuh populasi yahudi global dan banyak menetap di US,Israel,dan Eropa.&lt;/p&gt;
+&lt;p&gt;Asal usul : terbentuk sekitar abad 10 di wilayah rhineland, jerman dan prancis utara. &amp;ldquo;Ashkenazi&amp;rdquo; berasal dari bahasa ibrani yang merujuk pada kata &amp;ldquo;Jerman&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Bahasa tradisional mereka itu yiddish, bahasa perpaduan jermanik,ibrani, dan slavia yg ditulis pakai abjad ibrani.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dinosaurs</title>
+      <link>https://til-syarif-25.pages.dev/posts/dinosaurs/</link>
+      <pubDate>Sat, 16 May 2026 20:06:27 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/dinosaurs/</guid>
+      <description>&lt;p&gt;Dinosaurus / Dinosaurs dalam bahasa inggris itu berasal dari bahasa yunani yaitu deinos (sangat besar) dan sauros (kadal) istilah itu diciptakan oleh naturalis asal inggris yang bernama Sir Richard Owen pada tahun 1842.&lt;/p&gt;
+&lt;p&gt;Mereka hidup pada zaman 235 juta tahun yang lalu - 65 juta tahun yang lalu dimulai dari reptil awal,kemudian mendominasi daratan hingga punahnya dinosarus karna asteroid raksasa yang menabrak bumi.&lt;/p&gt;
+&lt;p&gt;Sejarah kehidupan dinosaurus terbagi ke dalam tiga periode :&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Asal Usul Nama Bandung</title>
+      <link>https://til-syarif-25.pages.dev/posts/bandung/</link>
+      <pubDate>Fri, 15 May 2026 08:03:23 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/bandung/</guid>
+      <description>&lt;p&gt;Nama Bandung diyakini sebagian besar orang dari kata bendung atau bendungan yang mana artinya adalah genangan air atau air yang tergenang, jadi dulu bandung itu merupakan danau purba pada saat 220 ribu hingga 160 ribu tahun yang lalu, lalu sekitar 16 ribu tahun lalu danaunya mengering karna erosi (ada sumber lain jg mengatakan karna gempa bumi)&lt;/p&gt;
+&lt;p&gt;Danau ini terbentuk karna adanya letusan gunung sunda purba (cikal bakal gunung tangkuban perahu) nah lavannya ini kan menyebar ya kemana maan lava tersebut membendung aliran air sungai citarum di daerah cisarua, aliran air yang tersumbat ini menciptakan genangan air raksasa (danau) yang membendung wilayah padelarang hingga cicalengka&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nyamuk</title>
+      <link>https://til-syarif-25.pages.dev/posts/nyamuk/</link>
+      <pubDate>Thu, 14 May 2026 23:42:45 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/nyamuk/</guid>
+      <description>&lt;p&gt;Nyamuk itu memilki manfaat mungkin kita sering luput dari itu menganggap bahwa nyamuk hanyalah hama yang mengganggu manusia, well in a way itu iya tapi di sisi lain sebenarnya nyamuk ini merupakan hewan yang cukup penting untuk keseimbangan ekosistem alam.beberapa manfaat nyamuk adalah sebagai berikut&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;sumber pangan ekosistem, larva nyamuk atau jentik itu pakan utama ikan sementara nyamuk dewasa jadi makanan burung,katak,kelelawar capung dll&lt;/li&gt;
+&lt;li&gt;penyerbukan : nyamuk jantan dan betina mengonsumsi nektar untuk sumber energi yang menjadikan mereka penyerbuk tanaman yang efektif&lt;/li&gt;
+&lt;li&gt;daur ulang nutrisi larva nyamuk memakan bahan organik di perairan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;walaupun bermanfaat secara ekologis memang nyamuk tetap menjadi penyakit mematikan bagi manusia, jadi sekali lagi manfaatnya lebih berdampak pada keseimbangan alam bukan secara langsung untuk kesehatan manusia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bule</title>
+      <link>https://til-syarif-25.pages.dev/posts/bule/</link>
+      <pubDate>Wed, 13 May 2026 22:55:26 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/bule/</guid>
+      <description>&lt;p&gt;Darimana kata bule berasal ? Kata bule itu kalau dilihat di kbbi merujuk kepada kata bulai yang artinya orang/mahluk yang berambut dan berkulit putih karna kekurangan pigmen warna bisa dikatakan albino&lt;/p&gt;
+&lt;p&gt;Kata ini diperkenalkan oleh Benedict Anderson seorang pengamat politiik,sejarawan asal irladia pada tahun 1960 an dimana pada masa pasca kemerdekaan orang indonesia menyebut orang luar negeri berkulit putih dengan panggilan kolonial seperti sebutan tuan/master, ben merasa itu kurang tepat lalu mencari padanan kata yang menurutnya lebih tepat dan menemukan kata bulai,masyarakat jawa juga sudah familiar dengan kata bulai dimana digunakan untuk menyebut hewan albino contoh yg terkenal adalah kerbau putih itu biasanya dinamakan kebo bulai.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Obsesi China Terhadap Perak</title>
+      <link>https://til-syarif-25.pages.dev/posts/perak/</link>
+      <pubDate>Tue, 12 May 2026 20:57:01 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/perak/</guid>
+      <description>&lt;p&gt;Perak dari dulu selalu memiliki status sebagai emas versi murah tapi sekarang statusnya berubah menjadi komoditas yang krusial bagi teknologi masa depan.&lt;/p&gt;
+&lt;p&gt;Kenapa perak sangat dicari di zaman sekarang ini alasanya adalah karna dunia modern memerlukan perak untuk berbagai komponen teknologi seperti panel surya,kendaraan listrik,hp,jaringan 5g,sensor, chip dan yang lainya.&lt;/p&gt;
+&lt;p&gt;Selama 6 tahun berturut turut perak ini mengalami defisit pasokan karna permintaan industri lebih cepat dari produksi tambang inilah yang membuat harga perak jadi sangat liar dan spekulatif&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Podcast Dr Gia dan Radit</title>
+      <link>https://til-syarif-25.pages.dev/posts/ytraditwithdrgia/</link>
+      <pubDate>Mon, 11 May 2026 21:50:46 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/ytraditwithdrgia/</guid>
+      <description>&lt;p&gt;Organ pencernaan itu dimulai dari mulut, enamel gigi merupakan anggota tubuh yang paling kuat secara mekanik tapi dia kalah dengan musuhnya yaitu kimiawi, musuh dari enamel gigi adalah bakteri,gula,waktu. rajin sikat gigi kalo ngga mau gigi cepat berlubang&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Manusia memproduksi kira kira 1.5 liter air liur per hari&lt;/li&gt;
+&lt;li&gt;Air liur itu berisi enzim,antibodi dll&lt;/li&gt;
+&lt;li&gt;Jumlah otot manusia itu sama yg beda itu volumenya&lt;/li&gt;
+&lt;li&gt;Saat makan usahakan kunyah itu minimal 33 kali biar lambung hapy&lt;/li&gt;
+&lt;li&gt;Kegiatan menelan itu kegiatan kompleks melibatkan esofagus,lidah,dll&lt;/li&gt;
+&lt;li&gt;Esofagus itu pipa panjangnya 1.5 meter&lt;/li&gt;
+&lt;li&gt;Geraka meremas makanan di esofagus itu namanya gerak peristaltik (nostalgia pertama kali tau ini kelas 5 dari Ibu Titi)&lt;/li&gt;
+&lt;li&gt;Keselek itu terjadi karna si pintu otomatis esofagus bingung antara buka atau tutup karna saat bicara itu harus kebuka karna pita suara hrus kebuka jg, pas makan sambil ngomong dia bingung jadi makanan itu masuknya ke paru paru jadi batuk&lt;/li&gt;
+&lt;li&gt;lambung itu jalinan otot yg bisa meremas makanan, ada 2 pintu , atas lower esofagi spinter memastikan makanan masuk tidak kembali ke esofagus&lt;/li&gt;
+&lt;li&gt;pintu lambung bawah pilorus memastikan yg ada di lambung tercicil masuk ke usus tidak sekaligus, dia keluarin 5cc/menit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Lla8OAD-DEE&#34;&gt;Podcast Dr Gia dan Radit&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fase Tidur</title>
+      <link>https://til-syarif-25.pages.dev/posts/tidur/</link>
+      <pubDate>Sun, 10 May 2026 13:57:02 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/tidur/</guid>
+      <description>&lt;p&gt;Tidur adalah saat dimana tubuh melakukan restorasi baik fisik maupun mental, siklus tidur terdiri dari light sleep, deep sleep, dan REM (rapid eye movement),Light sleep (tahap 1-2) adalah transisi awal antara terjaga dengan tidur , deep sleep (tahap 3-4) memperbaiki jaringan tubuh dan imun, lalu REM itu fase mimpi yang mengonsolidasi memori.&lt;/p&gt;
+&lt;p&gt;Tiap siklus tidur dan fungsinya&lt;/p&gt;
+&lt;p&gt;Light sleep (tahap 1&amp;amp;2)
+Cirinya adalah Tubuh mulai rileks, detak jantung dan napas melambat, suhu tubuh menurun, mudah terbangun oleh suara kecil, fungsinya adalah transisi antara bangun dan tidur nyenyak, durasinya mencakup 50-60% waktu tidur.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yusuf</title>
+      <link>https://til-syarif-25.pages.dev/posts/yusuf/</link>
+      <pubDate>Sat, 09 May 2026 13:07:04 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/yusuf/</guid>
+      <description>&lt;p&gt;Yusuf ketuurnan (Azhar)-&amp;gt;Ibrahim-&amp;gt;Ishak-&amp;gt;Yaqub-&amp;gt;Yusuf, keturunan nabi nabi
+Manusia yg punya anugerah kegantengan setengah pria di seluruh dunia
+Ahsanal Qosos -&amp;gt; Kisah yang paling baik&lt;/p&gt;
+&lt;p&gt;Siapa nabi yusuf ? ibunya bernama rahil, nabi yaqub menikahi adik kaka anak dari pamanya , lahir 12 anak laki laki yusuf termasuk, yusuf dan bunyamin&lt;/p&gt;
+&lt;p&gt;1745-1635SM , sekitar 1700 tahun sblm masehi, 3800 an th yg lalu&lt;/p&gt;
+&lt;p&gt;Nama nama ketuurnan yusuf tidak ada nabi, yusuf dikenal dikenal sifat menjaga kesucian diri , sealu amanah,santun sabar lapang dada, walau saudara memusuhi karna iri ketampanan , lebih diperhatikan oleh ortu, yusuf sabar&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kenapa Waktu Bisa Berjalan Berbeda</title>
+      <link>https://til-syarif-25.pages.dev/posts/waktu/</link>
+      <pubDate>Fri, 08 May 2026 20:05:40 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/waktu/</guid>
+      <description>&lt;p&gt;Ini topik yang sedikit membingungkan memang, saya hanya menulis konsep kasaranya saja dari baca baca beberapa menit&lt;/p&gt;
+&lt;p&gt;Kita sering dengar kalau &amp;ldquo;sesuatu&amp;rdquo; yang bergerak dengan kecepatan mendekati cahaya waktu di sana berjalan lebih lambat, misal orang yang berada di pesawat bergerak dengan kecepatan 99% cahaya selama satu tahun, sebetulnya yang dilalui di bumi itu sudah 7 tahun. jadi kalau kembali ke bumi, orang orang di bumi 7 tahun lebih tua. Lah ko bisa??&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kenapa Angka 4 dan 13 Sering Diskip</title>
+      <link>https://til-syarif-25.pages.dev/posts/lift4/</link>
+      <pubDate>Thu, 07 May 2026 22:08:18 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/lift4/</guid>
+      <description>&lt;p&gt;Karena di eastern culture, angka 4 itu cara pengucapanya sama dengan &amp;ldquo;kematian&amp;rdquo; yaitu &amp;ldquo;Si&amp;rdquo; atau &amp;ldquo;Se&amp;rdquo;. angka tersebut seringkali dikaitkan dengan nasib buruk/bad luck. sementara itu, ketakutan akan angka 13 itu berasal dari budaya barat.&lt;/p&gt;
+&lt;p&gt;konon ini berasal dari kisah tradisi kristiani yaitu penjamuan terakhir sebelum Yesus disalib, pada jamuan itu ada 13 orang yang hadir yaitu yesus dan ke 12 muridnya nah, orang ke 13 ini nama yudas iskariot sering disebut sebagai yang menempati posisi tersebut, (yudas ini pengkhianat yg menghianati yesus)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bangkok</title>
+      <link>https://til-syarif-25.pages.dev/posts/bangkok/</link>
+      <pubDate>Wed, 06 May 2026 23:06:05 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/bangkok/</guid>
+      <description>&lt;p&gt;Nama asli Bangkok, Krungthepmahanakhonamonrattanakosinmahintharayutthayamahadilokphopnopparatrajathaniburiromudomratchaniwetmahasathanamonphimanawatansathitsakkathattiyawitsanukamprasit, sangat panjang karena berasal dari bahasa Pali dan Sanskerta, menggambarkan kemegahan, sejarah, agama, serta perintah raja. Nama tersebut disematkan untuk memuliakan kota sebagai kediaman raja dan dewa.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neutronstar</title>
+      <link>https://til-syarif-25.pages.dev/posts/neutronstar/</link>
+      <pubDate>Tue, 05 May 2026 23:12:06 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/neutronstar/</guid>
+      <description>&lt;p&gt;Tahukan kamu bahwa hanya satu sendok teh bintang neutron itu masanya sekitar 1 triliun kilogram, kok bisa ?&lt;/p&gt;
+&lt;p&gt;bintang neutron itu adalah bintang yang sudah mati alias tidak memancarkan energi lagi, saat bintang itu mati dia meledak (supernova) dan intin bintagnya runtuh ke dalam karena gravitasi yang sangat kuat&lt;/p&gt;
+&lt;p&gt;kenapa satu sendok teh bintang neutron aja bisa sangat besar massanya, karna umumnya atom itu kan isinya ruangan hampa ya, kalau atom diperbesar ukuran lapangan sepak bola inti atomnya hanya seukuran kelereng, nah di bintang neutron itu atom2nya itu sangat2 padat, gravitasi menekan semua ruang kosong di sana elektron dan proton dipaksa bergabung jadi neutron&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Konjektur</title>
+      <link>https://til-syarif-25.pages.dev/posts/konjektur/</link>
+      <pubDate>Mon, 04 May 2026 22:32:33 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/konjektur/</guid>
+      <description>&lt;p&gt;Konjektur bisa dibilang teorema yang belum dibuktikan melalui persamaan matematis hingga tidak terpatahkan, jadi sebelum konjektur itu menjadi sebuah teorema harus diuji dulu kalau dia break di number tertentu maka konjektur tersebut gagal tidak bisa mejadi teorema.&lt;/p&gt;
+&lt;p&gt;konjektur tidak hanya ada di matematika tapi ada di fisikan dan bidang ilmu lainya, tapi kalau di bidang lain sebutan umumnya itu bisa hipotesis, dugaan, dsb, konjektur lebih umum dipakai di matematika.kalau di matematika itu pembuktian konjektur hanya perlu lembaran kertas berisi logika murni kalau mau menentukan &amp;ldquo;konjektur&amp;rdquo; di fisika itu melalui observasi untuk membuktikan hipotesis tersebut (misal black hole yang baru terbukti keberadaanya (didapatkan gambarnya th 2019))&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Berat &amp; Massa</title>
+      <link>https://til-syarif-25.pages.dev/posts/berat_massa/</link>
+      <pubDate>Sun, 03 May 2026 22:07:17 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/berat_massa/</guid>
+      <description>&lt;p&gt;Apa bedanya berat dan masas?&lt;/p&gt;
+&lt;p&gt;Berat itu terkait dengan gaya gravitasi yang bekerja pada suatu benda sedangkan massa itu terkait dengan jumlah materi / atom dalam suatu benda&lt;/p&gt;
+&lt;p&gt;Jadi berat itu dia mengikuti dimana benda tersebut diukur karna mengikuti gravitasi, berat suatu benda yg sama akan berbeda apabila diukur di bumi dan di bulan atau planet lain karna dia bergantung ke gravitasi, berat kita akan lebih ringan di bulan karna gravitasi bulan lebih kecil dibandingkan bumi&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Otot Jantung</title>
+      <link>https://til-syarif-25.pages.dev/posts/otot-jantung/</link>
+      <pubDate>Sat, 02 May 2026 22:26:49 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/otot-jantung/</guid>
+      <description>&lt;p&gt;Otot jantung bisa bekerja secara autonomus karena memiliki sekelompok sel khusus yang disebut sel pacu jantung, mirip seperti otot bisep di lengan otot jantung bisa menjadi lebih besar dan kuat melalui latihan&lt;/p&gt;
+&lt;p&gt;Saat sering melakukan olahraga kardio (lari,renang, skipping etc) jantung beradaptasi dengan cara membesarkan ruang ruangnya dan menebalkan dinding secara simetris,&lt;/p&gt;
+&lt;p&gt;Jantung yang kuat akan lebih efisien dalam memompa darah dia bisa mendorong darah lebih besar dalam satu detakan, orang yang sering olahraga kardio biasanya detak jantung istirahatnya lebih rendah sekitar 40-60bpm dibandingkan orang biasa 6-100bpm&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mayday</title>
+      <link>https://til-syarif-25.pages.dev/posts/mayday/</link>
+      <pubDate>Fri, 01 May 2026 20:00:30 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/mayday/</guid>
+      <description>&lt;p&gt;Tanggal 1 Mei diperingati sebagai hari buruh internasional, atau biasa disebut May Day, sejarah penetapan hari buruh ini cukup kelam, berawal pada akhir abad ke 19&lt;/p&gt;
+&lt;p&gt;Tepatnya tahun 1 Mei 1886 asosiasi buruh di Amerika melakukan demonstrasi besar besaran, ratusan ribu buruh +-400.000 buruh turun ke jalan di chicago, USA menuntut jam kerja yang manusiawi menjadi hanya 8 jam saya, sebelumnya para buruh dipaksa bekerja antara 10-16 jam dengan lingkungan yang tidak layak juga.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neuroplasticity</title>
+      <link>https://til-syarif-25.pages.dev/posts/neuroplasticity/</link>
+      <pubDate>Thu, 30 Apr 2026 21:36:50 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/neuroplasticity/</guid>
+      <description>&lt;p&gt;Neuroplastisitas adalah proses pembentukan jalur baru di otak saat kita belajar sesuatu, saat kita belajar atau beraktivitas otak akan mengirimkan sinyal listrik dari neuron ke neuron penerima di ujung neuron itu ada celah antar neuron itu namanya sinapsis, kabel dari neuron itu namanya akson,ujung neuron itu namanay terminal akson ,nah sinyal listrik ini tidak bisa lewat tuh antar celah neuron tersebut makanya perlu diubah ke sinyal kimia, sinyal kimia inilah yang akan &amp;ldquo;nyebrang&amp;rdquo; ke neuron sebelah dan kembali nanti diubah kembali jadi sinyal listrik. zat pembawa sinyal listrik ke kimia terssebut namanya neurotransmiter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paganisme</title>
+      <link>https://til-syarif-25.pages.dev/posts/paganisme/</link>
+      <pubDate>Wed, 29 Apr 2026 23:09:13 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/paganisme/</guid>
+      <description>&lt;p&gt;Paganisme adalah sebutan untuk kepercayaan yang menyembah banyak dewa (politeisme) dan sangat menghormati alam semesta&lt;/p&gt;
+&lt;p&gt;sudah ada sejak zaman dahulu kala bahkan sebelum istilah paganisme (1600 tahun lalu) ada dari zaman pra aksara sampai sekarang pun ada (namanya neopaganisme)&lt;/p&gt;
+&lt;p&gt;Fakta menarik, nama nama hari dalam bahasa inggris itu berasal dari dewa dalam paganisme misal wednesday dari weden (odin), thursday dari Thor , friday dari frigg atau freya&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inersia</title>
+      <link>https://til-syarif-25.pages.dev/posts/inersia/</link>
+      <pubDate>Tue, 28 Apr 2026 19:49:42 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/inersia/</guid>
+      <description>&lt;p&gt;Inersia itu hukum newton 1 yang intinya itu sebuah benda itu akan berada tetap di posisi baik diam ataupun saat bergerak jika tidak ada gaya yang mempengaruhi benda tersebut.&lt;/p&gt;
+&lt;p&gt;Misal saat orang melompat di dalam kereta dia akan ikut tetap bergerak bersama dengan laju kereta tapi misal orang di dalam bus supirnya berhenti mendadak (ada gaya tambahan yang membuat) orang di dalamnya itu akan cenderung terus bergerak dengan kecepatan yg sama seperti sebelum mengerem makanya kaya mau terjungkal&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ltc</title>
+      <link>https://til-syarif-25.pages.dev/posts/ltc/</link>
+      <pubDate>Mon, 27 Apr 2026 21:51:55 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/ltc/</guid>
+      <description>&lt;p&gt;LTC Glodok (lindeteves trade center) dulu kawasan itu adalah bekas gudang dan kantor perusahaan lindeteves, lindeteves ini adalah perusahaan kolonial raksasa, salah satu the big five di hindia belanda zaman dulu, didirikan oleh J.A. Van der Linde dan J.C Teves, dulu perusahaan ini menyuplai peralatan untuk pabrik gula dan perkebunan, pusatnya ada di semarang ada juga di surabaya dan jakarta&lt;/p&gt;
+&lt;p&gt;saat pendudukan jepang, sempat dijadikan tempat untuk reparasi tank setelah masa kemerdekaan tempat itu dinasionalisasi oleh pemerintah indonesia, lalu jadi kawasan tempat jual beli peralatan teknik karna reputasi dari dulu sudah bagus untuk tempat beli peralatan elektroni,&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>20ksteps</title>
+      <link>https://til-syarif-25.pages.dev/posts/20ksteps/</link>
+      <pubDate>Sun, 26 Apr 2026 19:16:07 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/20ksteps/</guid>
+      <description>&lt;p&gt;20K steps itu setara berapa KM ?&lt;/p&gt;
+&lt;p&gt;Rata rata langkah kaki orang dewasa itu 2 langkah = 1.5 meter (sangat sangat bergantung pada faktor lain sih, tapi ambil umumnya)&lt;/p&gt;
+&lt;p&gt;berarti kalau 20k langkah itu sekitar
+1,5 meter ÷ 2 langkah = 0,75 meter/langkah
+20.000 langkah × 0,75 meter = 15.000 meter
+15.000 meter = 15 KM&lt;/p&gt;
+&lt;p&gt;Kalori yang terbakar itu sekitar 800 kalori (bergantung berat badan)&lt;/p&gt;
+&lt;p&gt;Berat 55 kg: Sekitar 675 kalori.
+Berat 70 kg: Sekitar 835 kalori.
+Berat 85 kg: Sekitar 1.000 kalori atau lebih&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rumi</title>
+      <link>https://til-syarif-25.pages.dev/posts/rumi/</link>
+      <pubDate>Sat, 25 Apr 2026 21:39:34 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/rumi/</guid>
+      <description>&lt;p&gt;Jalaludin Al Rumi itu ternyata hidup dan berada di satu zaman yang sama dengan hancurnya baitul hikmah (1258, saat itu al rumi berusia sekitar 51 tahun, di konya turkey saat ini) yang diserang oleh pasukan mongol, baru tau juga waktu itu baghdad terpecah belah menjadi banyak daerah pas dikepung sama ribuan pasukan mongol hancur semua, nama sungai yang yipakai untuk buang puluhan atau bahkan ratusan ribu buku itu ke sungai Tigris&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aaverreos</title>
+      <link>https://til-syarif-25.pages.dev/posts/aaveroos/</link>
+      <pubDate>Fri, 24 Apr 2026 10:34:25 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/aaveroos/</guid>
+      <description>&lt;p&gt;Ibnu Rusyd lahir di cordoba , andalusia (spanyol) 1126 adalah seorang polymath (menguasai berbagai bidang ), hukum islam (fiqih) dan kedokteran, beliau juga hakim di cordoba, salah satu bukunya berjudul bidayat al mujtahid masih jadi rujukan sampai sekrang untuk perbandingan mahzab karna objektivitasnya.&lt;/p&gt;
+&lt;p&gt;Beliau sempat diasingkan karna dianggap terlalu rasional oleh kaum konservatif, karyanya sempat dilarang di spanyol, beliau meninggal di maroko tahun 1198, ibny rusyd juga yang memperkenalkan yunani kuno ke eropa yang sekarang jadi basis pengetahuan jaman sekarang, bisa dibilang beliau berpengaruh juga terhadap reinesance (kebangkitan eropa) , masa kelam eropa itu tahun 400-1100 an.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Insulin</title>
+      <link>https://til-syarif-25.pages.dev/posts/insulin/</link>
+      <pubDate>Fri, 24 Apr 2026 10:34:08 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/insulin/</guid>
+      <description>&lt;p&gt;Apa itu Insulin ?&lt;/p&gt;
+&lt;p&gt;insulin adalah hormon yang diprodusi oleh pankreas letaknya itu di belakang lambung dekat dengan usus halus, gunanya itu untuk membuka &amp;ldquo;pintu&amp;rdquo; agar molekul glukosa bisa masuk ke dalam sel dan lalu dipakai untuk dijadikan energi oleh si sel, jadi analoginya ya mirip kaya kunci dan rumah, insulin sbg kunci untuk buka pintu agar bisa masuk ke rumah (sel)&lt;/p&gt;
+&lt;p&gt;Saat kita makan makanan yang mengandung karbohidrat atau gula2an, nanti akan diproses menjadi glukosa dan larut dalam darah,nah setelah gula darah itu naik nnati pankreas bakal notice wah ada lonjakan gula darah, mereka produksilah itu insulin lalu ditangkapin lah itu dan masuk ke sel untuk jadi energi ,nah glukosa yang mengambang ini nanti akan dibagi bagi tuh, ada yang masuk ke dalam sel lewat bantuan insulin tadi, kalau sudah cukup nanti dia bakal jadi glikogen atau cadangan energi nanti disimpan di hati dan juga otot, tapi glikogen ini tuh punya tangki ada kapasitasnya, nah kalau penuh nanti dia bakal di endepin tuh di jaringan lemak (lemak ini tempat unlimited untuk simpan cadangan energi)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>52!</title>
+      <link>https://til-syarif-25.pages.dev/posts/faktorial/</link>
+      <pubDate>Thu, 23 Apr 2026 19:40:45 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/faktorial/</guid>
+      <description>&lt;p&gt;Seberapa besar 52! itu ?&lt;/p&gt;
+&lt;p&gt;Faktorial itu adalah perkalian bilangan bulai positif dari n sampai ke 1 secara berurutan dengan membawa hasil dari perkalian angka sebelumnya, faktorial dilambangkan dengan ! (tanda seru)&lt;/p&gt;
+&lt;p&gt;Contoh&lt;/p&gt;
+&lt;p&gt;1! = 1
+2! = 2 x 1 = 2
+3! = 3 x 2 x 1 = 6
+4! = 4 x 3 x 2 x 1 = 24&lt;/p&gt;
+&lt;p&gt;Guna faktorial itu untuk menghitung suatu kombinasi seperti &amp;ldquo;ada berapa banyak cara untuk menyusun atau mengurutkan sesuatu&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Source Code Manusia</title>
+      <link>https://til-syarif-25.pages.dev/posts/source_code_manusia/</link>
+      <pubDate>Wed, 22 Apr 2026 21:40:45 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/source_code_manusia/</guid>
+      <description>&lt;p&gt;Deoxyribonucleic Acid cukup sulit menulis dan mengejanya , alias DNA.&lt;/p&gt;
+&lt;p&gt;Tubuh manusia itu terdiri dari miliaran sel, di dalam sel itu ada inti sel atau yang dinakamakan dengan nukleus , nah di dalam nukleus ini ada yang namanya DNA, dna ini bentuknya mirip seperti double helix , ada anak tangga yang berisi catatan atau intruksi kode untuk tubuh manusia, intruksinya hanya pakai huruf namanya basa nitrogen , ATCG , kumpulan dari dna itu namanya kromosom&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Abu Hamid Muhammad Bin Muhammad AlGhazali</title>
+      <link>https://til-syarif-25.pages.dev/posts/abu-hamid-muhammad-bin-muhammad-alghazali/</link>
+      <pubDate>Tue, 21 Apr 2026 20:11:39 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/abu-hamid-muhammad-bin-muhammad-alghazali/</guid>
+      <description>&lt;p&gt;Al Ghazali adalah salah satu tokoh paling berpengaruh dalam sejarah pemikiran islam, nama lengkap beliau adalah Abu Hamid Muhammad bin Muhammad Al Ghazali at-thusi, lahir di Thus, iran tahun 1058, beliau punya julukan hujatul islam (bukti kebenaran islam) karena pembelaanya terhadap ajaran islam dari gempuran pemikiran filsafat yunani yang ekstrim pada saat itu.&lt;/p&gt;
+&lt;p&gt;Beliau adalah seorang jenius, pada saat masih muda dia sudah menjadi rektor di madrasah Nizhamiyah di baghdad, karya karyanya juga sangat terkenal bahkan masih menjadi rujukan dan perbincangan hingga saat ini.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pelapis Tangki Pesawat</title>
+      <link>https://til-syarif-25.pages.dev/posts/pelapis-tangki-pesawat/</link>
+      <pubDate>Mon, 20 Apr 2026 22:17:34 +0700</pubDate>
+      <guid>https://til-syarif-25.pages.dev/posts/pelapis-tangki-pesawat/</guid>
+      <description>&lt;p&gt;Tangki Pesawat Pakai Bahan Pelapis Karet&lt;/p&gt;
+&lt;p&gt;Mulanya tangki pesawat itu seperti biasanya pakainya ya logam biasa, namun hal itu akan membahayakan apabila tertembak dan bahan bakar melebar ke mana mana&lt;/p&gt;
+&lt;p&gt;Enginerr lalu membuat lapisan tangki pesawat dengan karet sehingga apabila ditembak pun atau terdapat kebocoran dia akan menutup dengan sendirinya (sifat karet sepertinya memang gitu)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Qadr</title>
-      <link>http://localhost:1313/posts/2026-04-20-megamacip/</link>
+      <link>https://til-syarif-25.pages.dev/posts/2026-04-20-megamacip/</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2026-04-20-megamacip/</guid>
-      <description>&lt;p&gt;Makna Qadr secara leksikal dan pergeseran maknanya&lt;/p&gt;</description>
+      <guid>https://til-syarif-25.pages.dev/posts/2026-04-20-megamacip/</guid>
+      <description>&lt;p&gt;Makna Qadr secara leksikal dan pergeseran maknanya&lt;/p&gt;
+&lt;p&gt;Tulisan ini sebetulnya adalah salah satu persiapan materi yang akan saya sampaikan pada rapat zoom mendatang dengan teman saya, agar materi lebih terstruktur jadi saya buat tulisan ini. Sekaligus coba buat today i learned yang sudah dari lama pengin dibuat tapi ngga jadi jadi :)&lt;/p&gt;
+&lt;p&gt;Secara leksikal qadr itu artinya adalah takaran, ukuran , bersinonim juga dengan takqdir. Seorang leksikografer bernama raghib al isfahani membuat buku yang membahas hal ini tahun 1100 an kalau tidak salah, takaran yan dimaksud adalah seperti ketentuan yang sudah ditetapkan oleh Allah untuk ciptaanya, atau simpelnya adalah aturan yang ditetapkan biasanya terkait sunatullah, contohnya adalah bahwa matahari itu mengelilingi galaksi, manusia bernapas memerlukan oksigen, bumi mengelilingi matahari dan seterusnya. Di masa pre islamic bangsa arab qadr itu tidak mengenal qadr dengan predestinasi namun kenapa di masa sekarang ini makna qadr itu lebih dikenal dengan ketetapan yang Allah buat terhadap hambanya dengan kata lain takdir/predestinasi ? pergeseran makna tersebut cukup panjang sejarahnya, prof mtk yang juga seorang muallaf membahas hal ini mengatakan bahwa ini adalah pergeseran makna teologis.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

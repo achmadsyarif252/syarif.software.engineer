@@ -10,3 +10,13 @@ theme = "PaperMod"
 
 [taxonomies]
   tag = "tags"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  name = "About Me"
+  url = "/about/"
+  weight = 20
