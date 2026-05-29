@@ -3,7 +3,6 @@ date = '2026-05-29T22:38:20+07:00'
 draft = false
 title = 'Batas Gula Tambahan/Hari'
 tags = ["Kesehatan","Pengetahuan"]
-tqgs
 +++
 
 50g itu batas gula tambahan (buatan, kaya gula dari kopi, jajanan dll) , 50 gram setara dengan 4 sendok makan gula (batas aman harian oleh kemenkes), sedangkan who merekeomendasikan tidak melebihi 25g sehari, jadi 50g itu batas maksimal
