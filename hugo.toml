@@ -1,10 +1,10 @@
-baseURL = "https://til-syarif-25.pages.dev/"
+baseURL = "https://syarif-software-engineer.pages.dev/"
 languageCode = "id"
-title = "Today I Learned"
+title = "Syarif Software Engineer"
 theme = "PaperMod"
 
 [params]
-  homeInfoParams = {Title = "Today I Learned", Content = "Hal-hal kecil yang saya pelajari setiap hari."}
+  homeInfoParams = {Title = "SSE", Content = "Hal-hal kecil yang saya pelajari setiap hari terkait software engineering."}
   ShowReadingTime = true
   ShowTags = true
 
