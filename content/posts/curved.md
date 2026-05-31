@@ -6,6 +6,7 @@ title = 'Curved'
 
 Cara buat curved modifier untuk card
 
+```kotlin
 class CurvedBottomShape(private val curveDepth: Dp) : Shape {
     override fun createOutline(
         size: Size,
@@ -29,3 +30,4 @@ class CurvedBottomShape(private val curveDepth: Dp) : Shape {
         return Outline.Generic(path)
     }
 }
+```
