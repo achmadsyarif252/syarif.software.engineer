@@ -23,3 +23,38 @@ tarik kurva melengkung dari posisi terakhir pena menuju x2 dan y2 tapi jalurnya 
 close : (kunci/segel bidnag) tarik pena dari posisi terakhir ke posisi awal saat pertama memanggil moveTo()
 
 latihan menggambar
+
+```kotlin
+class Triangle1() : Shape {
+    override fun createOutline(
+        size: Size,
+        layoutDirection: LayoutDirection,
+        density: Density
+    ): Outline {
+        val path = Path().apply {
+            moveTo(0f, 0f)
+            lineTo(size.width, 0f)
+            lineTo(size.width, size.height)
+            close()
+        }
+        return Outline.Generic(path)
+    }
+}
+
+//cara pakai 
+@Composable
+fun LatihanCurvedScreen() {
+    Box(
+        modifier = Modifier
+            .fillMaxWidth()
+            .height(300.dp)
+            .clip(Triangle1())
+            .background(
+                color = Color.Blue
+            )
+    )
+}
+```
+
+Hasil
+![Hasil Kode Triangle 1](/images/rect1.png)
