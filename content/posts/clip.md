@@ -41,6 +41,11 @@ class Triangle1() : Shape {
     }
 }
 
+moveTo(0,0) berarti di pojok kiri atas
+lineTo(size.width,0f) artinya letakan pena ke posisi terakhir lalu geser pena dan buat garis ke pojok kanan atas
+lineTo(size.width,size.height) artinya buat garis lagi dari posisi terakhir ke size.width berarti x mentok kanan lalu y mentok bawah
+close() => tutup ke koordinat move awal yaitu 0,0
+
 //cara pakai 
 @Composable
 fun LatihanCurvedScreen() {
@@ -58,3 +63,30 @@ fun LatihanCurvedScreen() {
 
 Hasil
 ![Hasil Kode Triangle 1](/images/rect1.png)
+
+contoh 2 
+```kotlin
+class Triangle2() : Shape {
+    override fun createOutline(
+        size: Size,
+        layoutDirection: LayoutDirection,
+        density: Density
+    ): Outline {
+        val path = Path().apply {
+            moveTo(0f, 0f)
+            lineTo(size.width, 0f)
+            lineTo(0f, size.height)
+            close()
+        }
+        return Outline.Generic(path)
+    }
+}
+moveTo(0,0) berarti di pojok kiri atas
+lineTo(size.width,0f) artinya letakan pena ke posisi terakhir lalu geser pena dan buat garis ke pojok kanan atas
+lineTo(0f,size.height) artinya buat garis lagi dari posisi terakhir ke 0f berarti x mentok kiri lalu y mentok bawah
+close() => tutup ke koordinat move awal yaitu 0,0
+
+```
+
+hasilnya 
+![Rectangele2](/images/rect2.png)
